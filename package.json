@@ -7,6 +7,6 @@
   "scripts": {
     "start": "node generateCsvData.js"
   },
-  "author": "",
+  "author": "Kateryna Yatskiv",
   "license": "ISC"
 }
