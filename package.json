@@ -1,0 +1,12 @@
+{
+  "name": "kiuub-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateCsvData.js",
+  "type": "module",
+  "scripts": {
+    "start": "node generateCsvData.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
